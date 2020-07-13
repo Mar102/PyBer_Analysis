@@ -21,8 +21,10 @@ In order to provide firther insight for the ride-sharing data by city type for P
 
 
 Figure 1
+
 ![Results_1](analysis/Capture.PNG)
 
 Figure 2  
+
 ![Results](analysis/Fig8.png)
 
