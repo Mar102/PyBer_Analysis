@@ -30,3 +30,7 @@ Figure 2
 
 ### Challenges
 The challenges I came across while analyzing the data was adapting my thinking to be one step ahead in determining the needed variables. I overcame it by making more processing outlines and trying to really grasp what the end goal was. I also had trouble making loc work but overcame it by taking a careful look at the past module and seeking help. 
+
+### Conclusion
+I recommend to continue with additional reporting for the graphs, with potentially a bar graph that details weekly or monthly changes in drivers and fares. At first glace, our data shows that there is potential for growth, but we need to confirm demand. If we analyze it in a shorter period of time, we will be able to see growth in the number of drivers per city type and fare totals at a much faster rate. This is important for the CEO's potential growth plan. 
+
