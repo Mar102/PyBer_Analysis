@@ -28,3 +28,5 @@ Figure 2
 
 ![Results](analysis/Fig8.png)
 
+### Challenges
+The challenges I came across while analyzing the data was adapting my thinking to be one step ahead in determining the needed variables. I overcame it by making more processing outlines and trying to really grasp what the end goal was. I also had trouble making loc work but overcame it by taking a careful look at the past module and seeking help. 
