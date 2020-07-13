@@ -17,14 +17,12 @@ Data Source:
 
 ### Analysis 
 
-In order to provide firther insight for the ride-sharing data by city type for PyBer, the data was detaily analyzed to create a frame work that guided the project. In order to create the appropriate variables, I analyzed the data by type, count and null values. After confirming that the data was clear to be used for technical variables, I created a workback plan to guide the outcomes.  
+In order to provide firther insight for the ride-sharing data by city type for PyBer, the data was detaily analyzed to create a frame work that guided the project. In order to create the appropriate variables, I analyzed the data by type, count and null values. After confirming that the data was clear to be used for technical variables, I created a workback plan to guide the outcomes. As seen in the chart and line graph below, a higher demand than than the availability of drivers in rural cities keeps prices at the highest for average fare per driver. If we compare the average fares between each city type, we’ll notice that the average fare in the rural cities is about 4 times lower than urban cities.
 
+
+Figure 1
 ![Results_1](analysis/Capture.PNG)
 
-
+Figure 2  
 ![Results](analysis/Fig8.png)
-
-
-#### If we compare the average number of rides between each city type, we’ll notice that the average number of rides in the rural cities is about 4 and 3.5 times lower than urban and suburban cities, respectively.
-There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively.
 
