@@ -17,11 +17,12 @@ Data Source:
 
 ### Analysis 
 
-In order to provide firther insight for the ride-sharing data by city type for PyBer, the data was detaily analyzed to create a frame work that guided the project. In order to create the appropriate variables, I analyzed the data by type, count and null values. After confirming that the data was clear to be used for technical variables 
+In order to provide firther insight for the ride-sharing data by city type for PyBer, the data was detaily analyzed to create a frame work that guided the project. In order to create the appropriate variables, I analyzed the data by type, count and null values. After confirming that the data was clear to be used for technical variables, I created a workback plan to guide the outcomes.  
 
-![Results_1](/analysis/Capture.PNG)
+![Results_1](analysis/Capture.PNG)
 
-![Results](/analysis/Fig8.png)
+
+![Results](analysis/Fig8.png)
 
 
 #### If we compare the average number of rides between each city type, we’ll notice that the average number of rides in the rural cities is about 4 and 3.5 times lower than urban and suburban cities, respectively.
